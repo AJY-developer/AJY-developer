@@ -1,5 +1,5 @@
-# 💫 About Me:
-I'm ajay shakya a mern stact developer <br>
+# 💫 Hi, I'm Ajay Shakya!
+I'm a mern stact developer <br>
 
 
 ## 🌐 Socials:
