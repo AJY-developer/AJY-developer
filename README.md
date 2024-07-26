@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Ajay Shakya!
+# 👋 Hi, I'm Ajay Shakya!
 I'm a mern stact developer <br>
 
 
